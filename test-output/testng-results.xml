@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver TestNG Demo" duration-ms="35732" started-at="2014-04-14T15:09:30Z" finished-at="2014-04-14T15:10:05Z">
+    <groups>
+    </groups>
+    <test name="Flight Booking" duration-ms="35732" started-at="2014-04-14T15:09:30Z" finished-at="2014-04-14T15:10:05Z">
+      <class name="com.webtest.webdrivertestngdemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.webtest.webdrivertestngdemo@2d58f9d3]" name="setUp" is-config="true" duration-ms="9824" started-at="2014-04-14T20:39:30Z" finished-at="2014-04-14T20:39:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBookFlightTestNG()[pri:0, instance:com.webtest.webdrivertestngdemo@2d58f9d3]" name="testBookFlightTestNG" duration-ms="24595" started-at="2014-04-14T20:39:39Z" finished-at="2014-04-14T20:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookFlightTestNG -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webtest.webdrivertestngdemo@2d58f9d3]" name="tearDown" is-config="true" duration-ms="1301" started-at="2014-04-14T20:40:04Z" finished-at="2014-04-14T20:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webtest.webdrivertestngdemo -->
+    </test> <!-- Flight Booking -->
+  </suite> <!-- WebDriver TestNG Demo -->
+</testng-results>
